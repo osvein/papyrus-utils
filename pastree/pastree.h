@@ -15,6 +15,12 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+/*
+ * #include <stdint.h>
+ * #include <stdio.h>
+ * #include <time.h>
+ */
+
 extern const char
 	*pastree_type_none,
 	*pastree_type_bool,
